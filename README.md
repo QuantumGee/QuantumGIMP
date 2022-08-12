@@ -6,7 +6,7 @@ Direct download: [Click here](https://github.com/QuantumGee/QuantumGIMP/archive/
 
 ## How to install a plugin
 
-1. Create a new folder on your hard disk where GIMP your GIMP plugins should be stored.
+1. Create a new folder on your hard disk where your GIMP plugins should be stored.
 2. Open GIMP.
 3. Open the preferences dialog. Navigate to the "Folder" settings section and expand it. Then select the "Plugins" sub-section and add the path to the folder¹ you've created first.
 4. Close GIMP.
