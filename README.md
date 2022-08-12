@@ -6,7 +6,7 @@
 
 1. Create a new folder on your hard disk where GIMP your GIMP plugins should be stored.
 2. Open GIMP.
-3. Open the preferences dialog. Navigate to the "Folder" settings section and expand it. Then select the "Plugins" section and add the path to the folder¹ you created first.
+3. Open the preferences dialog. Navigate to the "Folder" settings section and expand it. Then select the "Plugins" sub-section and add the path to the folder¹ you've created first.
 4. Close GIMP.
 5. Add a plugin that you have downloaded into the folder¹.
 6. Open GIMP again. It should now be loaded.
