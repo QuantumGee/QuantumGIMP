@@ -38,14 +38,13 @@ def _progress_witness_make_incremental_filename(lookupPath, filenameTemplate):
    for snapshotFilename in snapshotFilenames:
       i = os.path.splitext(snapshotFilename)[0]
       try:
-         number = re.findall('[0-9]+$', i)[0]
-         suffixes.append(int(number))
+         foundNumber = re.findall('[0-9]+$', i)[0]
+         suffixes.append(int(foundNumber))
       except IndexError:
          pass
    suffixes = sorted(suffixes)
-   newNum = suffixes[-1]+1
 
-   return filenameTemplate.format(number=newNum)
+   return filenameTemplate.format(number=suffixes[-1]+1)
    
 
 def progress_witness(snapshotSizeInPercent):
