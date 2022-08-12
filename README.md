@@ -2,6 +2,8 @@
 
 ... my handmade GIMP plugins.
 
+Direct download: [Click here](https://github.com/QuantumGee/QuantumGIMP/archive/refs/heads/main.zip) 
+
 ## How to install a plugin
 
 1. Create a new folder on your hard disk where GIMP your GIMP plugins should be stored.
