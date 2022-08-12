@@ -15,9 +15,10 @@
 
 Here you can find descriptions of all plugins stored in this repository.
 
-## ProgressWithness
+## ProgressWitness
 **What:** 
 ProgressWitness allows you to take image snapshots of your progress on your image projects by pressing a button or clicking the mouse, automatically scaling and saving these snapshots to a special subfolder of your project directory.
-**Where to find:** Menu/Tools
+
+**Where to find in GIMP:** Menu/Tools
 
 (TBC)
