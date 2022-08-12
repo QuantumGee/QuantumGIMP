@@ -25,6 +25,6 @@ ProgressWitness allows you to take image snapshots of your progress on your imag
 
 **Plugin file:** ProgressWitness.py
 
-**Direct plugin download:** <a href="https://raw.githubusercontent.com/QuantumGee/QuantumGIMP/main/ProgressWitness.py" target="_blank">Click here</a>
+**Direct plugin download:** <a href="https://raw.githubusercontent.com/QuantumGee/QuantumGIMP/main/ProgressWitness.py" target="_blank">Right mouse click, save as</a>
 
 (TBC)
