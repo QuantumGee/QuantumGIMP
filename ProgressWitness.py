@@ -23,6 +23,7 @@ def _progress_witness_set_progress(progressMessage, isEnd = False):
    if isEnd:
       pdb.gimp_progress_end()
 
+
 def _progress_witness_make_incremental_filename(lookupPath, filenameTemplate):
    """
    Creates a file name with an incremental numeric suffix appended to it.
